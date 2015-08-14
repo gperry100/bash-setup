@@ -1,0 +1,13 @@
+# bash-setup
+Bash profile setup
+
+# This is bash profile setup.
+#
+# I'm using it so I don't have to remember it again for a fresh install
+#
+# To get started navigate to your home directory
+
+git clone https://github.com/gperry100/bash-setup.git
+
+# To take effect straight away
+source .bash_profile
