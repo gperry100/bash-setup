@@ -7,7 +7,10 @@ Bash profile setup
 #
 # To get started navigate to your home directory
 
-git clone https://github.com/gperry100/bash-setup.git
+git clone https://github.com/gperry100/bash-setup.git && \
+mv bash-setup/.bash_profile ./ && \ 
+rm -rf bash-setup
 
 # To take effect straight away
+
 source .bash_profile
